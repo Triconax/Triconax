@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hey there 🙋‍♂️, I am Saarthak Chahal.<br>- I am 13 years old and a passionate Python 🐍 programmer.<br>- Learning new languages✍️..<br>- My Discord:  <br>-I love going to the gym
+- Hey there 🙋‍♂️, I am Saarthak Chahal.<br>- I am 13 years old and a passionate Python 🐍 programmer.<br>- Learning new languages✍️..<br>- My Discord 👉: Adonisss#4698   <br>-I love going to the gym 💪
 
 
 # 💻 Tech Stack:
