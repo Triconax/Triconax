@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hey there 🙋‍♂️, I am Saarthak Chahal.<br>- I am 13 years old and a passionate Python 🐍 programmer.<br>- Learning new languages✍️..<br>- My Discord 👉: Adonisss#4698   <br>-I love going to the gym 💪
+- Hey there 🙋‍♂️, I am Saarthak Chahal.<br>- I am 14 years old and a passionate Python 🐍 programmer.<br>- Learning new languages 👨‍💻<br>- My Discord 👉: Adonis#6367 <br>- Email ME! : triconax@gmail.com     <br>-I love going to the gym 💪.
 
 
 # 💻 Tech Stack:
@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Triconax&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
